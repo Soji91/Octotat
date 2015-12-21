@@ -1,1 +1,3 @@
 Explain what the "Upstream" remote is usually used for, in your own words?
+
+The upstream remote is used for syncing changes you have made in your local environment to the original repository on the server. The remote points to the upstream repository in Git
